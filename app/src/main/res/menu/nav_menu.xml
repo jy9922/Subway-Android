@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="호선 설정">
+        <menu>
+            <item
+                android:id="@+id/nav_metro1"
+                android:icon="@drawable/one"
+                android:title="1호선"/>
+            <item
+                android:id="@+id/nav_metro2"
+                android:icon="@drawable/two"
+                android:title="2호선"/>
+            <item
+                android:id="@+id/nav_metro3"
+                android:icon="@drawable/three"
+                android:title="3호선"/>
+            <item
+                android:id="@+id/nav_metro4"
+                android:icon="@drawable/three"
+                android:title="4호선"/>
+            <item
+                android:id="@+id/nav_metro5"
+                android:icon="@drawable/three"
+                android:title="5호선"/>
+            <item
+                android:id="@+id/nav_metro6"
+                android:icon="@drawable/three"
+                android:title="6호선"/>
+            <item
+                android:id="@+id/nav_metro7"
+                android:icon="@drawable/three"
+                android:title="7호선"/>
+            <item
+                android:id="@+id/nav_metro8"
+                android:icon="@drawable/three"
+                android:title="8호선"/>
+        </menu>
+    </item>
+
+    <group>
+        <item
+            android:id="@+id/nav_filter"
+            android:icon="@drawable/ic_filter"
+            android:title="필터"/>
+        <item
+            android:id="@+id/nav_bookmark"
+            android:icon="@drawable/ic_bookmark"
+            android:title="북마크"/>
+        <item
+            android:id="@+id/nav_setup"
+            android:icon="@drawable/ic_setting"
+            android:title="설정"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="로그아웃"/>
+    </group>
+
+</menu>

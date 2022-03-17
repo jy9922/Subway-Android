@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628032595",
+    "firebase_url": "https://logintry2-821d6.firebaseio.com",
+    "project_id": "logintry2-821d6",
+    "storage_bucket": "logintry2-821d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628032595:android:f08d2ae2b563f5ebfef2a6",
+        "android_client_info": {
+          "package_name": "com.example.logintry2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628032595-vah2rsdsuvhm26r567pr5ho0pfsrene1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logintry2",
+            "certificate_hash": "7e1c544e40d48825d3c375bbf590c2f1c2e4cb82"
+          }
+        },
+        {
+          "client_id": "628032595-5tq3lso7tahasog8m9hjs2lm7isjvrbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQVE-drEePCz8MnxedRb2fvTPe1Ovwtck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628032595-5tq3lso7tahasog8m9hjs2lm7isjvrbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
